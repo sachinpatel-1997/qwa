@@ -1,0 +1,362 @@
+.footer_text,
+  .footer_bottom-text,
+  .footer {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .footer {
+    top: 4300px;
+    position: absolute;
+    left: 0;
+    background-color: rgba(67, 223, 154, 0.05);
+    flex-direction: column;
+    padding: 50px 0 0;
+    align-items: center;
+    font-size: 14px;
+  }
+
+  .footer_container {
+    position: relative;
+    width: 1304px;
+    height: 323px;
+    flex-shrink: 0;
+  }
+  .footer_row,
+  .div309 {
+    position: absolute;
+  }
+  .footer_row {
+    top: 0;
+    left: 12px;     
+    width: 410.66px;
+    height: 249.31px;
+  }
+
+  .logo-main-footerpng-icon {
+    position: absolute;
+    top: calc(50% - 124.66px);
+    left: 0;
+    width: 257px;
+    height: 61px;
+    object-fit: cover;
+  }
+
+
+  .dealbuddy-aims-to,
+  .lets-find-your {
+    position: absolute;
+    top: 86px;
+    left: 0;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    width: 367.43px;
+    height: 59px;
+  }
+
+  .lets-find-your {
+    top: 178px;
+    width: 184.98px;
+    height: 19px;
+  }
+
+  .footer_row,
+  .div309 {
+    position: absolute;
+  }
+  .div309 {
+    top: 214px;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 0 136.65625px 0 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10px;
+  }
+
+  .app-storesvg-icon {
+    position: relative;
+    width: 120px;
+    height: 35.31px;
+    flex-shrink: 0;
+  }
+
+  .links_container,
+  .general_section,
+  .Nz_link {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .links_container {
+    position: absolute;
+    top: 0;
+    left: 434.66px;
+    flex-direction: row;
+    font-size: 18px;
+  }
+
+  .links_row,
+  .faq_link,
+  .blogs_link,
+  .quick_links_section {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .links_row,
+  .quick_links_section {
+    flex-direction: column;
+  }
+
+  .links_row {
+    padding: 0 30px 0 12px;
+  }
+
+  .quick-links {
+    position: relative;
+    line-height: 28px;
+    font-weight: 600;
+    z-index: 1;
+  }
+
+  .links_row,
+  .faq_link,
+  .blogs_link,
+  .quick_links_section {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .quick_links_section {
+    flex-direction: column;
+  }
+
+  .quick_links_section {
+    z-index: 0;
+    font-size: 20px;
+    color: #00c86d;
+    font-family: Inter;
+  }
+  .category_link {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
+    flex-direction: row;
+    padding: 14px 188px 15px 0;
+    gap: 6px;
+  }
+
+  .category_link,
+  .stores_link,
+  .deals_link {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .stores_link {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
+    flex-direction: row;
+    padding: 14px 216px 15px 0;
+    gap: 6px;
+  }
+  .deals_link {
+    padding: 14px 221px 15px 0;
+  }
+  .deals_link,
+  .map_link,
+  .Nz_link {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
+    flex-direction: row;
+    gap: 6px;
+  }
+  .map_link {
+    display: flex;
+    padding: 14px 229px 15px 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .Nz_link {
+    padding: 14px 86px 15px 0;
+  }
+  .general_section {
+    flex-direction: column;
+    padding: 0 12px 0 30px;
+  }
+
+  .home_link,
+  .about_link {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .home_link {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
+    flex-direction: row;
+    padding: 14px 218px 15px 0;
+    gap: 6px;
+  }
+  .about_link {
+    padding: 14px 198px 15px 0;
+  }
+  .about_link,
+  .contact_link,
+  .faq_link {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
+    flex-direction: row;
+    gap: 6px;
+  }
+  .contact_link {
+    display: flex;
+    padding: 14px 187px 15px 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .faq_link {
+    padding: 14px 224px 15px 0;
+  }
+  .links_row,
+  .faq_link,
+  .blogs_link,
+  .quick_links_section {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .blogs_link {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
+    flex-direction: row;
+    padding: 14px 222px 15px 0;
+    gap: 6px;
+  }
+
+  .subway-grey-street {
+    position: relative;
+    line-height: 20px;
+    
+  }
+  a {
+    color: inherit;
+    transition:.5s;
+    text-decoration: none;
+    outline: 0!important;
+}
+a:hover {
+    color: #00c86d;
+  }
+  .online-store,
+  .zeke-skincare {
+    position: relative;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: "Open Sans";
+    color: #000;
+    text-decoration-line: none;
+  }
+  .online-store {
+    order: 0;
+    flex: none;
+    height: 20px;
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lexend';
+    font-size: 14px;
+    line-height: 26px;
+    }
+
+  .logo-footerpng-icon {
+    position: absolute;
+    top: calc(50% - 161.5px);
+    left: 1181.98px;
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+  }
+
+  .footer_text {
+    border-top: 1px solid #e1e2e6;
+    flex-direction: row;
+    padding: 31px 300px 30px;
+    align-items: flex-start;
+  }
+
+  .footer_bottom-text {
+    flex-direction: column;
+    padding: 0 20px;
+    align-items: flex-start;
+    gap: 16px;
+  }
+  .third-party-trademarks-are {
+    position: relative;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    width: 1272.89px;
+  }
+
+  .dealbuddy_reserved,
+  .terms_condition {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .dealbuddy_reserved {
+    gap: 616.39px;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .terms_condition {
+    gap: 0.25px;
+    color: #000;
+  }
+
+  .terms_condition_p {
+    display: flex;
+    flex-direction: row;
+    padding: 0 39.453125px 0 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 15.45px;
+  }
+
+  .facebook_logo {
+    position: relative;
+    width: 104px;
+    height: 32px;
+    flex-shrink: 0;
+  }
+
+  .facebook-logopng-icon,
+  .instagram-logopng-icon {
+    position: absolute;
+    top: calc(50% - 16px);
+    left: 0;
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+  }
+  .instagram-logopng-icon {
+    left: 52px;
+  }
+  .wwwdealbuddyconz-by-htmlto {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 6630px;
+    text-align: left;
+    font-size: 20px;
+    color: #000;
+    font-family: "Open Sans";
+  }
+
+  .dealbuddy-layout {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 5362.66px;
+  }

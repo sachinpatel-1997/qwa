@@ -1,0 +1,1085 @@
+.popular_sale {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 6630px;
+    text-align: left;
+    font-size: 20px;
+    color: #000;
+    font-family: "Open Sans";
+  }
+.Popular_sales_container {
+    position: absolute;
+    top: 1186px;
+    left: calc(50% - 660px);
+    display: flex;
+    flex-direction: column;
+    padding: 0 8px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+  }
+
+  .popular_sale-layout {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    /* height: 5362.66px; */
+  }
+
+  .Popular_sales_text {
+    position: relative;
+    width: 1280px;
+    height: 39.59px;
+    flex-shrink: 0;
+  }
+
+  .popular-sales {
+    color: #000000;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Lexend;
+    height: 38px;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    line-height: 38px;
+    width: 211px;
+    font-style: normal;
+}
+
+  .a6 {
+    position: absolute;
+    top: calc(50% - 19.8px);
+    left: 1161.94px;
+    border-radius: 5px;
+    background: linear-gradient(107.73deg, #43df9a 13.88%, #03b465 87.89%);
+    display: flex;
+    flex-direction: row;
+    padding: 10px 24.0625px 9.59375px 25px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 14px;
+    color: #fff;
+  }
+.subscribe-1{
+    left: 1169px;
+    border: none;
+    position: absolute;
+    /* top: calc(50% - 23.8px); */
+    /* left: 1195.94px; */
+    border-radius: 5px;
+    background: linear-gradient(107.73deg, #43df9a 13.88%, #03b465 92.89%);
+    display: flex;
+    flex-direction: row;
+    padding: 10px 23.0625px 11.59375px 22px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 14px;
+    color: #fff;
+}
+.subscribe-1:not([disabled]):hover {
+  color: #000;
+  background: linear-gradient(109.06deg,#faf57e 12.84%,#fef400 87.16%)!important;
+}
+  .subscribe {
+    position: relative;
+    line-height: 19.6px;
+  }
+
+  .Popular_sales_card_container {
+    position: relative;
+    width: 1304px;
+    height: 986.36px;
+    flex-shrink: 0;
+    text-align: left;
+    font-size: 14px;
+    color: #fff;
+  }
+
+  .button3,
+  .Popular_sales_card_1,
+  .Popular_sales_card_text_container,
+  .Popular_sales_card_2_title,
+  .span1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .Popular_sales_card_1 {
+    height: calc(100% - 491.98px);
+    top: 10px;
+    bottom: 481.98px;
+    left: calc(50% - 641px);
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-direction: column;
+    padding: 1px;
+  }
+
+  .Popular_sales_card_1,
+  .Popular_sales_card_2_title,
+  .span1 {
+    position: absolute;
+  }
+
+  .Popular_sales_card_image,
+  .sale-in {
+    position: relative;
+  }
+  .Popular_sales_card_image {
+    width: 302px;
+    height: 200px;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  
+  .product-1641248058-284-thumbj-icon {
+    position: absolute;
+    width: 100%;
+    top: calc(50% - 100px);
+    right: 0;
+    left: 0;
+    border-radius: 10px 10px 0 0;
+    max-width: 100%;
+    overflow: hidden;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .Popular_sales_card__4_title,
+  .Popular_sales_card_like_icon {
+    position: absolute;
+  }
+  .Popular_sales_card__4_title {
+    height: calc(100% - 164px);
+    width: calc(100% - 179px);
+    top: 20px;
+    right: 221.05px;
+    bottom: 144px;
+    left: 20px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.75);
+    box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+    display: flex;
+    flex-direction: row;
+    padding: 8px 13.953125px 8px 14px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+.food, .Popular_sales_card_like_icon{
+  position: absolute;
+}
+  .food {
+    height: calc(100% - 164px);
+    width: calc(100% - 243px);
+    top: 20px;
+    right: 221.05px;
+    bottom: 144px;
+    left: 20px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.75);
+    box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+    display: flex;
+    flex-direction: row;
+    padding: 8px 13.953125px 8px 14px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .subway-grey-street {
+    flex-grow: 1;
+    font-weight: 900;
+    font-family: 'Lexend';
+    position: relative;
+    line-height: 20px;
+}
+
+.Popular_sales_card_like_icon {
+  top: 17.5px;
+  left: 250.5px;
+  font-size: 28px;
+  line-height: 28px;
+  font-family: Inter;
+  color: #fff400;
+}
+  .Popular_sales_card_text_container {
+    flex: 1;
+    background-color: #fff;
+    flex-direction: column;
+    padding: 20px;
+    gap: 20px;
+    z-index: 0;
+    font-size: 20px;
+    color: #000;
+    font-family: Inter;
+  }
+
+  .Popular_sales_card_text_row {
+    flex: 1;
+    position: relative;
+    width: 262px;
+  }
+
+  .span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 0 172px 0 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: "Open Sans";
+  }
+
+  .sale-in {
+    flex-grow: 0;
+    flex: none;
+    color: rgba(0, 0, 0, 0.5);
+    line-height: 18px;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lexend';
+    height: 18px;
+    width: 265px;
+    line-height: 18px;
+    text-transform: uppercase;
+    order: 0;
+}
+
+  .h4 {
+    position: absolute;
+    top: 23px;
+    left: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    padding: 0 13px 0.390625px 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16px;
+    font-family: "Open Sans";
+  }
+
+  .subway-buy {
+    flex-grow: 0;
+    order: 1;
+    flex: none;
+    color: #000000;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Lexend';
+    height: 56px;
+    width: 265px;
+    position: relative;
+    line-height: 28px;
+}
+
+  .Popular_sales_card_address,
+  .p,
+  .p1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .Popular_sales_card_address {
+    position: absolute;
+    top: 60.39px;
+    left: 0;
+    padding: 0 35px 0 0;
+    gap: 12px;
+  }
+
+  .Popular_sales_card_location {
+    position: absolute;
+    top: 90.39px;
+    left: 0;
+    gap: 12px;
+  }
+  .Popular_sales_card_location,
+  .Popular_sales_card_expire_date,
+  .Popular_sales_card_expire_date_text {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .p1 {
+    overflow: hidden;
+    padding: 0 169px 0 0;
+    font-size: 14px;
+    font-family: "Open Sans";
+  }
+
+  .Popular_sales_card_expire_date {
+    position: absolute;
+    top: 120.39px;
+    left: 0;
+    padding: 0 97.078125px 0 0;
+    gap: 12px;
+  }
+
+  .Popular_sales_card_expire_date_text {
+    padding: 0 7.6875px 0 0;
+    gap: 11.23px;
+    font-size: 14px;
+    font-family: "Open Sans";
+  }
+
+  .button3 {
+    border-radius: 5px;
+    background: linear-gradient(107.73deg, #43df9a 13.88%, #03b465 87.89%);
+    flex-direction: row;
+    padding: 10px 99.421875px 9.59375px 98.578125px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    font-family: "Open Sans";
+  }
+
+  .button4,
+  .Popular_sales_card_2_container,
+  .Popular_sales_card_2_container,
+  .Popular_sales_card__3_title {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .Popular_sales_card_2_container,
+  .Popular_sales_card__3_title {
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .Popular_sales_card_2_container {
+    height: calc(100% - 491.98px);
+    top: 10px;
+    bottom: 481.98px;
+    left: calc(50% - 315px);
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    flex-direction: column;
+    padding: 1px;
+  }
+
+  .Popular_sales_card_2_title,
+  .span1 {
+    flex-direction: row;
+  }
+  .Popular_sales_card_2_title {
+    height: calc(100% - 164px);
+    width: calc(100% - 234px);
+    top: 20px;
+    right: 179.94px;
+    bottom: 144px;
+    left: 20px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.75);
+    box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+    padding: 8px 14.0625px 8px 14px;
+    box-sizing: border-box;
+  }
+
+  /* .Popular_sales_card_2_container {
+    flex: 1;
+    background-color: #fff;
+    flex-direction: column;
+    padding: 20px;
+    gap: 20px;
+    z-index: 0;
+    font-size: 20px;
+    color: #000;
+  } */
+
+  .span1 {
+    top: 0;
+    left: 0;
+    padding: 0 118px 0 0;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.5);
+  }
+
+  .h41,
+  .p2 {
+    overflow: hidden;
+    flex-direction: row;
+  }
+  .h41 {
+    position: absolute;
+    top: 23px;
+    left: 0;
+    display: flex;
+    padding: 0 24.143753051757812px 0.78125px 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16px;
+  }
+  .get-6-months {
+    position: relative;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 237.86px;
+    flex-shrink: 0;
+  }
+
+  .Popular_sales_card__location,
+  .Popular_sales_card__expire_text,
+  .p2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .Popular_sales_card__location {
+    position: absolute;
+    top: 82.78px;
+    left: 0;
+    flex-direction: row;
+    gap: 12px;
+    font-family: Inter;
+  }
+  .p2 {
+    padding: 0 174px 0 0;
+    font-size: 14px;
+    font-family: "Open Sans";
+  }
+
+  .button4,
+  .Popular_sales_card__expire,
+  .Popular_sales_card__expire_text {
+    flex-direction: row;
+  }
+  .Popular_sales_card__expire {
+    position: absolute;
+    top: 112.78px;
+    left: 0;
+    display: flex;
+    padding: 0 105.09375px 0 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+    font-family: Inter;
+  }
+
+  .Popular_sales_card__expire_text {
+    padding: 0 7.671875px 0 0;
+    gap: 11.23px;
+    font-size: 14px;
+    font-family: "Open Sans";
+  }
+
+  .button4 {
+    border-radius: 5px;
+    background: linear-gradient(107.73deg, #43df9a 13.88%, #03b465 87.89%);
+    padding: 10px 99.421875px 9.59375px 98.578125px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+  }
+
+  .Popular_sales_card__3_container,
+  .Popular_sales_card__3_expire_icon,
+  .span3 {
+    position: absolute;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .Popular_sales_card__3_container {
+    height: calc(100% - 491.98px);
+    top: 10px;
+    bottom: 481.98px;
+    left: calc(50% + 11px);
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-direction: column;
+    padding: 1px;
+  }
+
+  .Popular_sales_card__3_title {
+    height: calc(100% - 164px);
+    width: calc(100% - 210px);
+    top: 20px;
+    right: 202.27px;
+    bottom: 144px;
+    left: 20px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.75);
+    box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+    flex-direction: row;
+    padding: 8px 14.734375px 8px 14px;
+  }
+
+  .Popular_sales_card__3_expire_icon,
+  .h42 {
+    left: 0;
+    flex-direction: row;
+  }
+  .h42 {
+    position: absolute;
+    top: 23px;
+    overflow: hidden;
+    display: flex;
+    padding: 0 20.221878051757812px 0.78125px 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16px;
+  }
+
+  .sunglasshut-students {
+    position: relative;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 241.78px;
+    flex-shrink: 0;
+  }
+
+  .Popular_sales_card__3_expire_icon {
+    top: 112.78px;
+    padding: 0 89.078125px 0 0;
+    gap: 12px;
+    font-family: Inter;
+  }
+
+  .div100,
+  .div105,
+  .div109,
+  .div113,
+  .Popular_sales_card__4_container,
+  .h44 {
+    position: absolute;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .Popular_sales_card__4_container {
+    height: calc(100% - 491.98px);
+    top: 10px;
+    bottom: 481.98px;
+    left: calc(50% + 337px);
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-direction: column;
+    padding: 1px;
+  }
+
+  .span3 {
+    top: 0;
+    left: 0;
+    flex-direction: row;
+    padding: 0 118px 0 0;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: "Open Sans";
+  }
+
+  .h43 {
+    position: absolute;
+    top: 23px;
+    left: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    padding: 0 19.815628051757812px 0.78125px 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16px;
+    font-family: "Open Sans";
+  }
+
+  .lunch-special-curry {
+    position: relative;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 242.18px;
+    flex-shrink: 0;
+  }
+
+  .div96,
+  .p4 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .div96 {
+    position: absolute;
+    top: 82.78px;
+  }
+
+  .div100,
+  .div96,
+  .div98 {
+    left: 0;
+    flex-direction: row;
+    gap: 12px;
+  }
+
+  .p4 {
+    overflow: hidden;
+    flex-direction: row;
+    padding: 0 28.378128051757812px 0 0;
+    font-size: 14px;
+    font-family: "Open Sans";
+  }
+
+  .royale-indian-restaurant {
+    position: relative;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    width: 201.62px;
+    flex-shrink: 0;
+  }
+
+  .e-clarkin,
+  .royale-indian-restaurant2 {
+    position: relative;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: "Open Sans";
+    color: #000;
+    display: flex;
+    align-items: center;
+    width: 173.09px;
+  }
+
+  .cameron-rd-hamilton,
+  .royale-indian-restaurant3 {
+    position: relative;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: "Open Sans";
+    color: #000;
+    display: flex;
+    align-items: center;
+    width: 184.79px;
+  }
+
+  .div98 {
+    position: absolute;
+    top: 132.78px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .div100 {
+    top: 162.78px;
+    padding: 0 105.09375px 0 0;
+  }
+
+  .Popular_sales_card_view_deal_button,
+  .div103 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .div103 {
+    position: absolute;
+    height: calc(100% - 534.38px);
+    top: 524.38px;
+    bottom: 10px;
+    left: calc(50% - 641px);
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-direction: column;
+    padding: 1px;
+  }
+
+  .div105,
+  .div109,
+  .div113,
+  .h44 {
+    flex-direction: row;
+  }
+  .div105 {
+    height: calc(100% - 164px);
+    width: calc(100% - 227px);
+    top: 20px;
+    right: 153.97px;
+    bottom: 144px;
+    left: 20px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.75);
+    box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+    padding: 8px 15.03125px 8px 14px;
+    box-sizing: border-box;
+  }
+
+  .div109,
+  .div113,
+  .h44 {
+    left: 0;
+  }
+  .h44 {
+    top: 23px;
+    overflow: hidden;
+    padding: 0 89px 0.390625px 0;
+    font-size: 16px;
+    font-family: "Open Sans";
+  }
+
+  .div109,
+  .div113 {
+    top: 60.39px;
+    padding: 0 40px 0 0;
+    gap: 12px;
+  }
+
+  .p {
+    overflow: hidden;
+    font-size: 14px;
+    font-family: "Open Sans";
+  }
+
+  .div113 {
+    top: 120.39px;
+    padding: 0 89.078125px 0 0;
+  }
+
+  /* .Popular_sales_card_view_deal_button {
+    cursor: pointer;
+    border: 0;
+    padding: 10px 99.421875px 9.59375px 98.578125px;
+    background-color: transparent;
+    border-radius: 5px;
+    background: linear-gradient(107.73deg, #43df9a 13.88%, #03b465 87.89%);
+    flex-direction: row;
+  } */
+
+  .Popular_sales_card_view_deal_button {
+    cursor: pointer;
+    border: 0;
+    height: 40px;
+    background-color: transparent;
+    border-radius: 5px;
+    background: linear-gradient(107.73deg, #43df9a 13.88%, #03b465 87.89%); 
+    flex-direction: row;
+}
+
+  /* .view-deal4 {
+    position: relative;
+    font-size: 14px;
+    line-height: 19.6px;
+    font-family: "Open Sans";
+    color: #fff;
+    text-align: center;
+  } */
+  .view-deal4 {
+    cursor: pointer;
+    padding: 20px;
+    height: 40px;
+    border: none;
+    /* height: 49px; */
+    /* top: 1px; */
+    color: #FFFFFF;
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: Lexend;
+    flex-grow: 1;
+    order: 0;
+    flex: none;
+    /* padding: 10px 16px 6px 22px; */
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    height: 36px;
+    border-radius: 5px;
+    justify-content: center;
+    gap: 8px;
+    background: linear-gradient(107.73deg, #43df9a 13.88%, #03b465 87.89%); 
+    /* position: relative; */
+    /* font-size: 14px; */
+    /* line-height: 19.6px; */
+    /* font-family: "Open Sans"; */
+    /* color: #fff; */
+    /* text-align: center; */
+    width: 265px;
+}
+.view-deal4:not([disabled]):hover {
+  color: #000;
+  background: linear-gradient(109.06deg,#faf57e 12.84%,#fef400 87.16%)!important;
+}
+  .div116,
+  .div120,
+  .div129,
+  .h45 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .div129 {
+    cursor: pointer;
+    border: 0;
+    padding: 8px 13.953125px 8px 14px;
+    background-color: rgba(0, 0, 0, 0.75);
+    height: calc(100% - 164px);
+    width: calc(100% - 168px);
+    top: 20px;
+    right: 221.05px;
+    bottom: 144px;
+    left: 20px;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+    flex-direction: row;
+  }
+  .div116,
+  .div129 {
+    position: absolute;
+    box-sizing: border-box;
+  }
+
+  .div116 {
+    height: calc(100% - 534.38px);
+    top: 524.38px;
+    bottom: 10px;
+    left: calc(50% - 315px);
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    flex-direction: column;
+    padding: 1px;
+    font-size: 28px;
+    color: #fff400;
+    font-family: Inter;
+  }
+
+  .div118,
+  .div119 {
+    position: absolute;
+  }
+  .div118 {
+    cursor: pointer;
+    border: 0;
+    padding: 8px 14.734375px 8px 14px;
+    background-color: rgba(0, 0, 0, 0.75);
+    height: calc(100% - 164px);
+    width: calc(100% - 177.27px);
+    top: 20px;
+    right: 202.27px;
+    bottom: 144px;
+    left: 20px;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .fashion2 {
+    font-weight: 600;
+    font-style: normal;
+    position: relative;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: "Lexend";
+    color: #fff;
+    text-align: left;
+  }
+
+  .div119 {
+    top: 16.5px;
+    left: 253.5px;
+    line-height: 28px;
+}
+  
+  .div120 {
+    flex: 1;
+    background-color: #fff;
+    flex-direction: column;
+    padding: 20px;
+    gap: 20px;
+    z-index: 0;
+    font-size: 20px;
+    color: #000;
+    font-family: "Open Sans";
+  }
+
+  .h45 {
+    position: absolute;
+    top: 23px;
+    left: 0;
+    overflow: hidden;
+    flex-direction: row;
+    padding: 0 21.800003051757812px 0.78125px 0;
+    font-size: 16px;
+  }
+
+  .dotti-signup {
+    position: relative;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 240.2px;
+    flex-shrink: 0;
+  }
+
+  .div127,
+  .h47 {
+    overflow: hidden;
+  }
+  .div127 {
+    position: absolute;
+    height: calc(100% - 534.38px);
+    top: 524.38px;
+    bottom: 10px;
+    left: calc(50% + 11px);
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    padding: 1px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 28px;
+    color: #fff400;
+    font-family: Inter;
+  }
+
+  .div135,
+  .h46 {
+    position: absolute;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .h46 {
+    top: 23px;
+    overflow: hidden;
+    padding: 0 5.98748779296875px 0.78125px 0;
+    font-size: 16px;
+  }
+
+  .countdown-get {
+    position: relative;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 256.01px;
+    flex-shrink: 0;
+  }
+
+  .div135 {
+    top: 112.78px;
+    padding: 0 97.078125px 0 0;
+    gap: 12px;
+    font-family: Inter;
+  }
+
+  .div138,
+  .Popular_sales_card__4_address,
+  .h47 {
+    position: absolute;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .div138 {
+    height: calc(100% - 534.38px);
+    top: 524.38px;
+    bottom: 10px;
+    left: calc(50% + 337px);
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-direction: column;
+    padding: 1px;
+  }
+
+  .h47 {
+    top: 23px;
+    left: 0;
+    flex-direction: row;
+    padding: 0 104px 0.390625px 0;
+    font-size: 16px;
+    font-family: "Open Sans";
+  }
+
+  .Popular_sales_card__4_address {
+    top: 60.39px;
+    left: 0;
+    flex-direction: row;
+    padding: 0 7px 0 0;
+    gap: 12px;
+  }
+
+  .view-info{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    font-size: 16px;
+    color: var(--whiteColor);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    background-color: #00000080;
+    box-shadow: 0 0 15px #0000000d;
+    height: 38px;
+  }
+
+  .view-items{
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .click-icon{
+    height: 18px;
+    width: 18px;
+  }
+
+  .view-text {
+    font-size: 14px;
+    line-height: 18px;
+    padding-left: 8px;
+  }
+
+  .popular_sale_01 {
+    position: absolute;
+    width: 396px;
+    height: 38px;
+    left: -315px;
+    top: 139px;
+}

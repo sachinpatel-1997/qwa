@@ -1,0 +1,643 @@
+.app-home {
+    top: 119px;
+    width: 1920px;
+  }
+
+  .app-home,
+  .p21 {
+    position: absolute;
+  }
+
+  .find-the-best {
+    position: absolute;
+    top: 92px;
+    left: 324px;
+    font-size: 30px;
+    line-height: 38px;
+}
+
+  .container_category-with-banner,
+  .sales {
+    position: absolute;
+  }
+  .container_category-with-banner {
+    top: 181px;
+    left: calc(50% - 660px);
+    display: flex;
+    padding: 0 20px;
+    gap: 30px;
+}
+
+  .row_category-with-banner,
+  .home-slide-1660185210-229png-icon {
+    position: relative;
+    border-radius: 10px;
+    height: 524px;
+    flex-shrink: 0;
+  }
+  .row_category-with-banner {
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    width: 380px;
+    cursor: pointer;
+  }
+  .top-categories {
+    position: absolute;
+    top: 21px;
+    left: 21px;
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .broadband-header-icon {
+    top: calc(50% - 18.5px);
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 0 19.46875px 0 0;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+  .travel-icon-heading-arrow {
+    top: 52px;
+    left: 21px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    width: 338px;
+    height: 67px;
+  }
+
+  .travel-icon-heading,
+  .category-arrow {
+    display: flex;
+    align-items: center;
+  }
+  .travel-icon-heading {
+    position: absolute;
+    top: calc(50% - 18.5px);
+    left: 0;
+    flex-direction: row;
+    padding: 0 19.265625px 0 0;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+
+  .category-icon,
+  .travel {
+    position: relative;
+  }
+  .category-icon {
+    border-radius: 10px;
+    background-color: #00c86d;
+    width: 36px;
+    height: 36px;
+    flex-shrink: 0;
+  }
+
+  .category-1649058881-247-thumb-icon {
+    position: absolute;
+    top: calc(50% - 10px);
+    left: calc(50% - 10px);
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+  }
+
+ 
+  .travel {
+    line-height: 24px;
+  }
+
+  .category-arrow {
+    top: 20px;
+    left: 314px;
+    font-size: 24px;
+    line-height: 24px;
+    font-family: Inter;
+    width: 24.2px;
+    height: 25px;
+  }
+  .travel-icon-heading-arrow,
+  .category-arrow,
+  .broadband-header-icon {
+    position: absolute;
+  }
+
+  .travel-icon-heading,
+  .category-arrow {
+    display: flex;
+    align-items: center;
+  }
+
+  .broadband-header-icon-arrow {
+    top: 119px;
+    left: 21px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    width: 338px;
+    height: 67px;
+  }
+  .broadband-header-icon-arrow,
+  .sports-header-icon-arrow,
+  .sports-header-icon {
+    position: absolute;
+  }
+
+  .sports-header-icon-arrow {
+    top: 186px;
+    left: 21px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    width: 338px;
+    height: 67px;
+  }
+
+  .sports-header-icon {
+    top: calc(50% - 18.5px);
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 0 19.453125px 0 0;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+
+  .fashion-header-icon {
+    top: calc(50% - 18.5px);
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 0 19.0625px 0 0;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+  .foods-header-icon-arrow {
+    top: 253px;
+    left: 21px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    width: 338px;
+    height: 67px;
+  }
+
+  .foods-header-icon {
+    top: calc(50% - 18.5px);
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 0 19.296875px 0 0;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+  .foods-header-icon-arrow,
+  .foods-header-icon,
+  .fashion-header-icon {
+    position: absolute;
+  }
+
+  .fashion-header-icon-arrow {
+    top: 320px;
+    left: 21px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    width: 338px;
+    height: 67px;
+  }
+  .fashion-header-icon-arrow,
+  .home-living-header-icon-arrow,
+  .home-living-header-icon {
+    position: absolute;
+  }
+
+  .view-all-categories {
+    position: absolute;
+    top: 474px;
+    left: 114.52px;
+    line-height: 24px;
+    color: #00c86d;
+    text-align: center;
+  }
+
+  .slider-images {
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .home-slide-1660185210-229png-icon {
+    width: 870px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+
+  .home-living-header-icon-arrow {
+    top: 387px;
+    left: 21px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    width: 338px;
+    height: 67px;
+  }
+
+  .home-living-header-icon {
+    top: calc(50% - 18.5px);
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 0 19.109375px 0 0;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+
+  .shop-container,
+  .shop-card-2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .shop-container {
+    position: absolute;
+    top: 832px;
+    left: calc(50% - 640px);
+    padding: 0 12px;
+    gap: 24px;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+  }
+
+  .shop-row,
+  .shop-card-1 {
+    border-radius: 10px;
+  }
+
+  .shop-row {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    background-image: url(https://www.dealbuddy.co.nz/assets/img/home-deals.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+
+  .shop-card-1 {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 616px;
+    height: 200px;
+    flex-shrink: 0;
+  }
+
+  .sales {
+    font-style: normal;
+    font-family: Lexend;
+    font-weight: 700;
+    top: 50px;
+    left: 262.13px;
+    font-size: 36px;
+    line-height: 44px;
+}
+.sales-save, .shop-todays-trending {
+  font-weight: 400;
+  font-family: Lexend;
+  position: absolute;
+  top: 102px;
+  left: 226.58px;
+  line-height: 24px;
+}
+  .sales-save {
+    top: 126px;
+    left: 262.69px;
+  }
+
+  .shop-card-2 {
+    border-radius: 10px;
+    background-image: url(https://www.dealbuddy.co.nz/assets/img/home-coupons.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .coupons {
+    font-family: Lexend;
+    font-weight: 700;
+    position: absolute;
+    top: 50px;
+    left: 230.23px;
+    font-size: 36px;
+    line-height: 44px;
+}
+.checkout-online-or, .use-these-coupons {
+  font-weight: 400;
+  font-family: Lexend;
+  position: absolute;
+  top: 102px;
+  left: 199.23px;
+  line-height: 24px;
+}
+  .checkout-online-or {
+    top: 126px;
+    left: 205.88px;
+  }
+
+  .join-now-container,
+  .join-now-row,
+  .form1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+
+  .join-now-container {
+    position: absolute;
+    top: 4000px;
+    left: 325px;
+    border-radius: 10px;
+    background-color: #e3faed;
+    padding: 24px 0;
+    align-items: flex-start;
+    text-align: left;
+    font-size: 24px;
+    border-radius: 27px;
+    width: 1280px;
+}
+  .join-now-row {
+    padding: 0 50px;
+    align-items: center;
+    gap: 166px;
+  }
+
+  .join-the-deals {
+    font-size: 30px;
+    font-style: normal;
+    font-family: 'Lexend';
+    top: 1px;
+    left: 15px;
+    height: 81px;
+    width: 303px;
+    position: relative;
+    line-height: 38px;
+    font-weight: 600;
+  }
+
+  .form1 {
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 0 10px 0 20px;
+    align-items: flex-start;
+    font-size: 16px;
+    color: #a8a8a8;
+  }
+
+  .button2,
+  .div49 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+
+  .div49 {
+    align-items: center;
+  }
+
+  .div50 {
+    position: relative;
+    width: 427.14px;
+    height: 50px;
+    flex-shrink: 0;
+  }
+
+  .divplaceholder1 {
+    position: absolute;
+    top: 14px;
+    left: 30px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    padding: 0 195.140625px 0 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .find-your-perfect {
+    
+    position: relative;
+  }
+
+  .div51 {
+    position: absolute;
+    top: 13.5px;
+    left: 0;
+    font-size: 22px;
+    line-height: 22px;
+    font-family: Inter;
+  }
+
+  .button2,
+  .div49 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .button2 {
+    border-radius: 5px;
+    background: linear-gradient(107.73deg, #43df9a 13.88%, #03b465 87.89%);
+    padding: 10px 24.859375px 9.59375px 24px;
+    align-items: flex-start;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+  }
+
+  .subscribe {
+    
+    position: relative;
+    line-height: 19.6px;
+  }
+
+  .form {
+    padding: 0px 134px 0px 20px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .search__input {
+  
+      line-height: 24px;
+      font-size: 16px;
+      font-weight: 400;
+      font-style: normal;
+      font-family: Lexend;
+      box-sizing: border-box;
+      /* color: #000; */
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      padding: 13px 70px;
+      gap: 8px;
+      width: 572px;
+      height: 50px;
+      background: #FFFFFF;
+      border: 1px solid rgba(0, 0, 0, 0.15);
+      box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+      border-radius: 10px;
+      flex: none;
+      order: 1;
+      align-self: stretch;
+      flex-grow: 0;
+      font-size: 20px;
+      color: #A8A8A8;
+  
+  }
+    .join-now-containerd{
+      box-sizing: border-box;
+
+position: absolute;
+width: 1280px;
+height: 64px;
+left: 320px;
+top: 737px;
+
+/* White */
+
+background: #FFFFFF;
+/* Tertiary/Tertiary 15% */
+
+border: 1px dashed rgba(0, 0, 0, 0.15);
+border-radius: 10px;
+    }
+
+  .join-the-dealsd {
+    position: absolute;
+    width: 650px;
+    height: 24px;
+    left: 327px;
+    top: 25px;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    /* background: linear-gradient(56deg, #43DF9A, #43DF9A), linear-gradient(0deg, #000000, #000000); */
+  }
+  /* b{
+    border: rgba(67, 223, 154, 1);
+  } */
+  
+  .logo1, .email {
+      left: 1px;
+      height: 0px;
+      width: 20px;
+      position: absolute;
+      left: 42.33%;
+      right: 8.33%;
+      top: 10.67%;
+      bottom: 16.67%;
+      font-size: 14px;
+      font-weight: 700;
+  }
+  
+
+  .logo1 {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 43.33%;
+    right: 8.33%;
+    top: 42.67%;
+    bottom: 16.67%;
+    }
+
+    .button_base{
+      display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 14px;
+gap: 8px;
+
+width: 106px;
+height: 36px;
+
+/* Primary */
+
+background: #43DF9A;
+/* Shadow/xs */
+
+box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+border-radius: 5px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 1;
+    }
+    .search-btn{
+     
+      background: #43DF9A;
+      gap: 8px;
+      padding: 8px 14px;
+      justify-content: center;
+      border-radius: 5px;
+      left: 1001px;
+      height: 36px;
+      width: 106px;
+      position: absolute;
+      padding: 0px;
+      align-items: center;
+      flex-direction: row;
+      display: flex;
+      position: absolute;
+      /* background: white; */
+      left: 1001px;
+      top: 65px;
+      transform: translateY(-50%);
+      padding: 10px;
+      border: none;
+      color: white;
+      font-size: 16px;
+  }
+.search-btn:hover{
+  color: white;
+  background-color: #fff400;
+}
+  .arrow_1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    gap: 8px;
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: -12px;
+    top: 240px;
+    /* background: rgba(0, 0, 0, 0.5); */
+}
+
+.arrow_2{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+  gap: 8px;
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  left: 813px;
+  top: 240px;
+}

@@ -1,0 +1,215 @@
+.sponsorslider_container,
+  .sponsorslider_row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .sponsorslider_container {
+    position: absolute;
+    top: 2900px;
+    left: 0;
+    background-color: rgba(67, 223, 154, 0.05);
+    flex-direction: row;
+    padding: 39px 300px 40px;
+  }
+
+  .sponsorslider_row {
+    flex-direction: column;
+    padding: 0 20px;
+    gap: 24.19px;
+  }
+
+  .sponsored-ads {
+    font-family: "Lexend";
+    font-size: 29px;
+    width: 187px;
+    left: 68px;
+    position: relative;
+    line-height: 33px;
+    height: 38px;
+    font-weight: 600;
+}
+
+  .sponsor_card_container {
+    position: relative;
+    width: 1280px;
+    height: 291.39px;
+    flex-shrink: 0;
+    overflow: hidden;
+    text-align: left;
+    font-size: 18px;
+  }
+
+  .sponsor_card_row,
+  .div228 {
+    position: absolute;
+    top: 0;
+  }
+
+  .sponsor_card_row {
+    left: -1280px;
+    width: 3841px;
+    height: 291.39px;
+  }
+
+  .sponsor_card1_images,
+  .sponsor_card1 {
+    position: absolute;
+  }
+
+  .sponsor_card1 {
+    height: calc(100% - 15px);
+    top: 0;
+    bottom: 15px;
+    left: calc(50% - 579.2px);
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    width: 304px;
+    overflow: hidden;
+  }
+  .sponsor_card1_images {
+    top: 1px;
+    left: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .sponsor-1662070974-250-thumbp-icon {
+    position: relative;
+    border-radius: 10px 10px 0 0;
+    width: 302px;
+    height: 146px;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+
+  .sponsor_card_heading_container {
+    background-color: #fff;
+    flex-direction: row;
+    padding: 20px;
+  }
+
+  .sponsor_card_heading_container,
+  .sponsor_card_1_heading_row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .sponsor_card_1_heading_row {
+    flex: 1;
+    flex-direction: column;
+    padding: 0 7.7531280517578125px 1.390625px 0;
+    gap: 8px;
+  }
+
+  .countdown-specials {
+    font-family: Lexend;
+    position: relative;
+    line-height: 28px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.looking-for-specials {
+    font-size: 12px;
+    font-family: Lexend;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.sponsor_card_2 {
+    position: absolute;
+    height: calc(100% - 15px);
+    top: 0;
+    bottom: 15px;
+    left: calc(50% - 152.55px);
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    width: 304px;
+    overflow: hidden;
+  }
+
+  .sponsor_card_2_heading_row {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 0 11px 0.796875px 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 9px;
+  }
+
+  .checkout-these-hot {
+    position: relative;
+    font-size: 12px;
+    line-height: 16.8px;
+    color: rgba(0, 0, 0, 0.5);
+  }
+
+  .div221,
+  .sponsor_card3 {
+    position: absolute;
+    top: 0;
+  }
+  .sponsor_card3 {
+    height: calc(100% - 15px);
+    bottom: 15px;
+    left: calc(50% + 274.11px);
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    width: 304px;
+    overflow: hidden;
+  }
+
+  .sponsor_card_3_heading_row {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 0 6.7687530517578125px 0.59375px 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 9px;
+  }
+  .when-you-rent {
+    position: relative;
+    font-size: 12px;
+    line-height: 16.8px;
+    color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    width: 255.23px;
+  }
+  .arrow_left{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+gap: 8px;
+
+width: 36px;
+height: 36px;
+
+/* Primary */
+
+background: #43DF9A;
+/* Shadow/xs */
+
+box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+border-radius: 5px;
+transform: rotate(180deg);
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 1;
+  }
